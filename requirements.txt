@@ -1,0 +1,6 @@
+streamlit
+akshare
+pandas
+numpy
+numpy-financial
+matplotlib
